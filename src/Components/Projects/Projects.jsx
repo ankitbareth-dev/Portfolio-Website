@@ -1,4 +1,4 @@
-import projectImage from "../../assets/Images/Project-1.png";
+import projectImage from "../../assets/Images/Project1.png";
 import styles from "./Projects.module.css";
 
 const Projects = () => {
@@ -9,32 +9,32 @@ const Projects = () => {
       title: "Rock Paper Scissors Game",
       description:
         "Rock beats Scissors, Scissors beats Paper, and Paper beats Rock. Challenge the computer in this classic game!",
-      demoLink: "#",
-      githubLink: "#",
+      demoLink: "https://todo-app-alpha-five-45.vercel.app/",
+      githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
     {
       id: 2,
       image: projectImage,
       title: "Project Name",
       description: "Project description goes here",
-      demoLink: "#",
-      githubLink: "#",
+      demoLink: "https://todo-app-alpha-five-45.vercel.app/",
+      githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
     {
       id: 2,
       image: projectImage,
       title: "Project Name",
       description: "Project description goes here",
-      demoLink: "#",
-      githubLink: "#",
+      demoLink: "https://todo-app-alpha-five-45.vercel.app/",
+      githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
     {
       id: 2,
       image: projectImage,
       title: "Project Name",
       description: "Project description goes here",
-      demoLink: "#",
-      githubLink: "#",
+      demoLink: "https://todo-app-alpha-five-45.vercel.app/",
+      githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
   ];
 
