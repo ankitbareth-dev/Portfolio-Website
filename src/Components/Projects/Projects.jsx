@@ -36,22 +36,6 @@ const Projects = () => {
       demoLink: "#",
       githubLink: "#",
     },
-    {
-      id: 2,
-      image: projectImage,
-      title: "Project Name",
-      description: "Project description goes here",
-      demoLink: "#",
-      githubLink: "#",
-    },
-    {
-      id: 2,
-      image: projectImage,
-      title: "Project Name",
-      description: "Project description goes here",
-      demoLink: "#",
-      githubLink: "#",
-    },
   ];
 
   return (
