@@ -6,33 +6,36 @@ const Projects = () => {
     {
       id: 1,
       image: projectImage,
-      title: "Rock Paper Scissors Game",
+      title: "Todo-App",
       description:
-        "Rock beats Scissors, Scissors beats Paper, and Paper beats Rock. Challenge the computer in this classic game!",
+        "A streamlined task management application that helps you to organize, track, and complete your daily activities efficiently and effectively.",
       demoLink: "https://todo-app-alpha-five-45.vercel.app/",
       githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
     {
       id: 2,
       image: projectImage,
-      title: "Project Name",
-      description: "Project description goes here",
+      title: "Todo-App",
+      description:
+        "A streamlined task management application that helps you to organize, track, and complete your daily activities efficiently and effectively.",
       demoLink: "https://todo-app-alpha-five-45.vercel.app/",
       githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
     {
       id: 2,
       image: projectImage,
-      title: "Project Name",
-      description: "Project description goes here",
+      title: "Todo-App",
+      description:
+        "A streamlined task management application that helps you to organize, track, and complete your daily activities efficiently and effectively.",
       demoLink: "https://todo-app-alpha-five-45.vercel.app/",
       githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
     {
       id: 2,
       image: projectImage,
-      title: "Project Name",
-      description: "Project description goes here",
+      title: "Todo-App",
+      description:
+        "A streamlined task management application that helps you to organize, track, and complete your daily activities efficiently and effectively.",
       demoLink: "https://todo-app-alpha-five-45.vercel.app/",
       githubLink: "https://github.com/ankitbareth-dev/Todo-App",
     },
